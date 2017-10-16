@@ -1,2 +1,4 @@
-# rubiks-cube-solver
-rubiks-cube-solver
+RUBIKS-CUBE-SOLVER
+==================
+
+rubiks cube solver create in cpp
